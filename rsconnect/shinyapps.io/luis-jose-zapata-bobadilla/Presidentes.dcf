@@ -1,0 +1,13 @@
+name: Presidentes
+title: Presidentes
+username:
+account: luis-jose-zapata-bobadilla
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3598058
+bundleId: 4193763
+url: https://luis-jose-zapata-bobadilla.shinyapps.io/Presidentes/
+when: 1612747072.97584
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: -LENOVOY540-2.Rhistory|-LENOVOY540.Rhistory|Accion_popular(peor_partido).PDF|Acronimos.png|cuadros.xlsx|Fuerza_popular.PDF|imagen.png|Juntos_por_Peru(JP).PDF|network.R|Partido_morado.PDF|PlanGobierno.html|PlanGobierno.Rmd|PlanGobierno.tex|Podemos.pdf|presidentes.R|Rplot.pdf|Rplot01.pdf|Rplot02.pdf|sentiments.png|Somos_peru(borrar indicadoresmetas).PDF|temas.png|temas.svg|Victoria_nacional.PDF|Data|Figs
